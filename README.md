@@ -76,12 +76,12 @@ go run main.go client 127.0.0.1:8080 Chang
 
 > **Li отправляет зашифрованное сообщение Chang**
 
-![](https://gitee.com/xiangxiang3451/pictures/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20225522.png)
+![](https://gitee.com/xiangxiang3451/pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20225522.png)
 
-![](https://gitee.com/xiangxiang3451/pictures/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20225546.png)
+![](https://gitee.com/xiangxiang3451/pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20225546.png)
 
 > **Li отправляет широковещательное сообщение**
 
-![](https://gitee.com/xiangxiang3451/pictures/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20224510.png)
+![](https://gitee.com/xiangxiang3451/pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20224510.png)
 
-![](https://gitee.com/xiangxiang3451/pictures/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20224548.png)
+![](https://gitee.com/xiangxiang3451/pictures/raw/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-07%20224548.png)
